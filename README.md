@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Key
-- 👀 I’m interested in Coding and Machine Learning
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Angular and Computer Vision
 - 💞️ I’m looking to collaborate on Geo-Science related projects
 - 📫 How to reach me - here!
